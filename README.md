@@ -1,7 +1,7 @@
 # My Portfolio
 My skills are mostly in meatspace right now, but when my coding skills develop, that will change...
 ## About Me
-I am a (self-taught beginner) surfer, Jiu-Jitsu white-belt, bartender and book-editor learning the basics of coding through online courses. When I am not working or doing sports, I enjoy spending time with my cat Sassafrass and watching movies on my projector.
+I am a surfer, Jiu-Jitsu white-belt, bartender and book-editor learning the basics of coding through online courses. When I am not working or doing sports, I enjoy spending time with my cat Sassafrass and watching movies on my projector.
 ## Skills
 
 * Bartending
